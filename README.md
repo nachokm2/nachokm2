@@ -59,14 +59,11 @@ Actualmente trabajo en **Postgrados de la Universidad Autónoma de Chile**, apoy
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ GitHub Analytics
 
-<p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=nachokm2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachokm2&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nachokm2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nachokm2&layout=compact&langs_count=8&theme=algolia)
+
 
 
 ---
