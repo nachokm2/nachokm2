@@ -62,21 +62,23 @@ Actualmente trabajo en **Postgrados de la Universidad Autónoma de Chile**, apoy
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/nachokm2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nachokm2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachokm2&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=nachokm2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachokm2&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
 </p>
 
----
 
+---
 ### ⚡ &nbsp;Actividad Reciente
 
 <p align="center">
-  <a href="https://github.com/nachokm2">
-    <img src="https://activity-graph.herokuapp.com/graph?username=nachokm2&theme=react-dark"/>
-  </a>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nachokm2&theme=react-dark&hide_border=true"
+    alt="Actividad de GitHub de Rodrigo"
+  />
 </p>
+
 ### 📌 &nbsp;Proyectos Destacados
 
 #### 📊 Análisis de Datos y Dashboards
