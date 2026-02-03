@@ -1,3 +1,12 @@
+### ⚙️ GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nachokm2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nachokm2&layout=compact&langs_count=8&theme=algolia)
+
+![Actividad de GitHub](https://github-readme-activity-graph.vercel.app/graph?username=nachokm2&theme=react-dark&hide_border=true)
+
+---
+
 <h1 align="center">
   Hola, me llamo Rodrigo
   <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
@@ -24,17 +33,17 @@ Perfil profesional:
 
 ---
 
-### 🎓 &nbsp;Perfil Académico y Profesional
+### 🎓 Perfil Académico y Profesional
 
 Ingeniero Civil Informático con experiencia en **análisis de datos, gestión académica y automatización de procesos**, orientado a mejorar la toma de decisiones mediante el uso de datos.  
 Actualmente trabajo en **Postgrados de la Universidad Autónoma de Chile**, apoyando procesos institucionales mediante **CRM Bitrix24, dashboards y reportes analíticos**.
 
 ---
 
-### 🛠 &nbsp;Tecnologías y Herramientas
+### 🛠 Tecnologías y Herramientas
 
 **Análisis de Datos**
-  
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
@@ -59,67 +68,38 @@ Actualmente trabajo en **Postgrados de la Universidad Autónoma de Chile**, apoy
 
 ---
 
-### ⚙️ GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nachokm2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nachokm2&layout=compact&langs_count=8&theme=algolia)
-
-
-
----
-### ⚡ &nbsp;Actividad Reciente
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nachokm2&theme=react-dark&hide_border=true"
-    alt="Actividad de GitHub de Rodrigo"
-  />
-</p>
-
-### 📌 &nbsp;Proyectos Destacados
+### 📌 Proyectos Destacados
 
 #### 📊 Análisis de Datos y Dashboards
 - **Dashboard de Gestión Académica (Postgrados)**  
-  Desarrollo de dashboards para el seguimiento de matrículas, postulaciones y conversiones.  
-  **Tecnologías:** Python, Pandas, Looker Studio, Google Sheets  
-  **Enfoque:** Apoyo a la toma de decisiones institucionales basadas en datos.
+  Seguimiento de matrículas, postulaciones y conversiones.  
+  **Tecnologías:** Python, Pandas, Looker Studio, Google Sheets.
 
 - **Reporte Automatizado de Indicadores Comerciales**  
-  Automatización de reportes periódicos a partir de datos provenientes de CRM.  
-  **Tecnologías:** Python, Google Sheets  
-  **Resultado:** Reducción de tiempos operativos y mejora en la visualización de KPIs.
+  Automatización de reportes desde CRM.  
+  **Resultado:** Optimización de tiempos y visualización de KPIs.
 
 ---
 
 #### 🔄 CRM y Automatización de Procesos (Bitrix24)
 - **Implementación y Optimización de CRM Bitrix24**  
-  Configuración de pipelines, automatización de tareas y seguimiento de leads.  
-  **Enfoque:** Optimización del proceso comercial y académico.
+  Configuración de pipelines y automatización de tareas.
 
 - **Automatización de Flujos de Trabajo**  
-  Automatización de procesos repetitivos asociados a la gestión de clientes y estudiantes.  
-  **Tecnologías:** Bitrix24, integraciones externas, scripts personalizados.
+  Procesos repetitivos asociados a gestión académica y comercial.
 
 ---
 
 #### 🌐 Desarrollo Web y Soluciones para PYMES
 - **Sitios Web Corporativos en WordPress**  
-  Desarrollo y mantenimiento de sitios web orientados a pequeñas y medianas empresas.  
-  **Tecnologías:** WordPress, HTML, CSS, JavaScript  
-  **Objetivo:** Presencia digital y apoyo a procesos comerciales.
+  Desarrollo y mantenimiento para PYMES.
 
 - **Integración Web + CRM**  
-  Formularios web conectados directamente a CRM para la gestión automática de leads.  
-  **Resultado:** Mejora en la trazabilidad y respuesta a clientes.
+  Formularios conectados directamente a Bitrix24.
 
 ---
 
-> 📝 *Nota:* Los proyectos pueden ser académicos, institucionales o personales.  
-> Puedes enlazar repositorios públicos o describir proyectos privados sin exponer código.
-
----
-
-### 🤝🏻 &nbsp;Contacto Profesional
+### 🤝🏻 Contacto Profesional
 
 <p align="center">
 <a href="mailto:Rodrigopalmazavalla@gmail.com">
