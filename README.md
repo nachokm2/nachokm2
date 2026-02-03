@@ -1,74 +1,129 @@
-<h1 align="center">Hola Me llamo Rodrigo<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
+<h1 align="center">
+  Hola, me llamo Rodrigo
+  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
+</h1>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Deep+Learning+Developer;ML%20|%20Algorithms%20|%20OOP%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Ingeniero+Civil+Informático;Analista+de+Datos;Automatización+y+CRM+Bitrix24;Apoyo+a+Postgrados+y+PYMES&center=true&width=600&height=50">
+  </a>
 </p>
 
 <!--
-**azizovrafael/azizovrafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Repositorio especial: este README se muestra en el perfil de GitHub.
 
-<!--
-**azizovrafael/azizovrafael** es un repositorio ✨ _especial_ ✨ porque su archivo `README.md` (este archivo) aparece en tu perfil de GitHub.
-
-Aquí tienes algunas ideas para comenzar:
-
-- 🔭 Actualmente estoy trabajando en: Universidad Autónoma de Chile
-- 🌱 Actualmente estoy aprendiendo: Python
-- 👯 Estoy buscando colaborar en: Modelos de Machine learning
-- 🤔 Estoy buscando ayuda con: MCP para IA
-- 💬 Pregúntame sobre: Desarrollo Web
-- 📫 Cómo contactarme: Rodrigopalmazavalla@gmail.com
-- 😄 Pronombres: Nacho
-- ⚡ Dato curioso: Me gusta mucho jugar videojuegos retros
+Perfil profesional:
+- 🔭 Cargo actual: Analista de Datos – Postgrados, Universidad Autónoma de Chile
+- 🌱 Áreas de aprendizaje: Python, Machine Learning, Automatización de Procesos
+- 👯 Intereses de colaboración: Análisis de datos, CRM, automatización institucional y PYMES
+- 🤔 Enfoque de investigación: Uso de datos para la toma de decisiones y optimización de procesos
+- 💬 Temas de interés: Data Analytics, Dashboards, CRM (Bitrix24), WordPress
+- 📫 Contacto: Rodrigopalmazavalla@gmail.com
+- ⚡ Interés personal: Videojuegos retro
 -->
-### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+---
+
+### 🎓 &nbsp;Perfil Académico y Profesional
+
+Ingeniero Civil Informático con experiencia en **análisis de datos, gestión académica y automatización de procesos**, orientado a mejorar la toma de decisiones mediante el uso de datos.  
+Actualmente trabajo en **Postgrados de la Universidad Autónoma de Chile**, apoyando procesos institucionales mediante **CRM Bitrix24, dashboards y reportes analíticos**.
+
+---
+
+### 🛠 &nbsp;Tecnologías y Herramientas
+
+**Análisis de Datos**
+  
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
+
+**Machine Learning**
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=flat&logo=Xcode&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+**Desarrollo y Automatización**
 
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)
 
-![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=flat&logo=apple&logoColor=white)
-![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=macos&logoColor=F0F0F0)
-![IOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
-![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=flat&logo=apple-music&logoColor=white)
+**Herramientas de Gestión**
 
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
+
+---
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/azizovrafael">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azizovrafael&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azizovrafael&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/nachokm2">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nachokm2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachokm2&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
+---
 
-
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/azizovrafael"><img alt="Rafael's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=azizovrafael&custom_title=Rafael's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-  
-  
-  ### 🤝🏻 &nbsp;Connect with Me
+### ⚡ &nbsp;Actividad Reciente
 
 <p align="center">
-<a href="https://www.linkedin.com/in/rafael-azizov-3612391b2/"><img src="https://img.shields.io/badge/-Rafael%20LInedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:rafael.jr077@gmail.com"><img src="https://img.shields.io/badge/-rafael.jr077@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/rafael.azizovv/"><img src="https://img.shields.io/badge/-@rafael.azizovv_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/rafael.azizov.503/"><img src="https://img.shields.io/badge/-@rafael.azizovv-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+  <a href="https://github.com/nachokm2">
+    <img src="https://activity-graph.herokuapp.com/graph?username=nachokm2&theme=react-dark"/>
+  </a>
+</p>
+### 📌 &nbsp;Proyectos Destacados
+
+#### 📊 Análisis de Datos y Dashboards
+- **Dashboard de Gestión Académica (Postgrados)**  
+  Desarrollo de dashboards para el seguimiento de matrículas, postulaciones y conversiones.  
+  **Tecnologías:** Python, Pandas, Looker Studio, Google Sheets  
+  **Enfoque:** Apoyo a la toma de decisiones institucionales basadas en datos.
+
+- **Reporte Automatizado de Indicadores Comerciales**  
+  Automatización de reportes periódicos a partir de datos provenientes de CRM.  
+  **Tecnologías:** Python, Google Sheets  
+  **Resultado:** Reducción de tiempos operativos y mejora en la visualización de KPIs.
+
+---
+
+#### 🔄 CRM y Automatización de Procesos (Bitrix24)
+- **Implementación y Optimización de CRM Bitrix24**  
+  Configuración de pipelines, automatización de tareas y seguimiento de leads.  
+  **Enfoque:** Optimización del proceso comercial y académico.
+
+- **Automatización de Flujos de Trabajo**  
+  Automatización de procesos repetitivos asociados a la gestión de clientes y estudiantes.  
+  **Tecnologías:** Bitrix24, integraciones externas, scripts personalizados.
+
+---
+
+#### 🌐 Desarrollo Web y Soluciones para PYMES
+- **Sitios Web Corporativos en WordPress**  
+  Desarrollo y mantenimiento de sitios web orientados a pequeñas y medianas empresas.  
+  **Tecnologías:** WordPress, HTML, CSS, JavaScript  
+  **Objetivo:** Presencia digital y apoyo a procesos comerciales.
+
+- **Integración Web + CRM**  
+  Formularios web conectados directamente a CRM para la gestión automática de leads.  
+  **Resultado:** Mejora en la trazabilidad y respuesta a clientes.
+
+---
+
+> 📝 *Nota:* Los proyectos pueden ser académicos, institucionales o personales.  
+> Puedes enlazar repositorios públicos o describir proyectos privados sin exponer código.
+
+---
+
+### 🤝🏻 &nbsp;Contacto Profesional
+
+<p align="center">
+<a href="mailto:Rodrigopalmazavalla@gmail.com">
+  <img src="https://img.shields.io/badge/-Correo%20Electrónico-D14836?style=flat&logo=Gmail&logoColor=white"/>
+</a>
 </p>
