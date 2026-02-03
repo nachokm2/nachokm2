@@ -1,12 +1,3 @@
-### ⚙️ GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nachokm2&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nachokm2&layout=compact&langs_count=8&theme=algolia)
-
-![Actividad de GitHub](https://github-readme-activity-graph.vercel.app/graph?username=nachokm2&theme=react-dark&hide_border=true)
-
----
-
 <h1 align="center">
   Hola, me llamo Rodrigo
   <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35">
@@ -98,7 +89,11 @@ Actualmente trabajo en **Postgrados de la Universidad Autónoma de Chile**, apoy
   Formularios conectados directamente a Bitrix24.
 
 ---
+### ⚙️ GitHub Analytics
 
+![Actividad de GitHub](https://github-readme-activity-graph.vercel.app/graph?username=nachokm2&theme=react-dark&hide_border=true)
+
+---
 ### 🤝🏻 Contacto Profesional
 
 <p align="center">
