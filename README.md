@@ -139,11 +139,12 @@ Mi foco es **convertir procesos manuales en sistemas**: integraciones entre plat
 ### 📈 Actividad en GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nachokm2&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachokm2&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=nachokm2&theme=github-dark-blue&hide_border=true&locale=es&disable_animations=true" alt="Racha de contribuciones" />
 </p>
 
-![Actividad de GitHub](https://github-readme-activity-graph.vercel.app/graph?username=nachokm2&theme=github-compact&hide_border=true)
+<p align="center">
+  <img src="https://ghchart.rshah.org/2ea44f/nachokm2" alt="Contribuciones del último año" width="90%" />
+</p>
 
 ---
 
